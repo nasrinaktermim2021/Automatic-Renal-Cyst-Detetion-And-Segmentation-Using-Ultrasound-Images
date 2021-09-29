@@ -1,1 +1,3 @@
 "# Automatic-Renal-Cyst-Detetion-And-Segmentation-Using-Ultrasound-Images" 
+
+Renal cyst is a common diseases. The cause of renal cysts is unknown ,although age is the major risk factor. A survey, one-third of people older than 70 age have at least one renal cysts. Having few renal cysts in kidney is different from many renal cysts because of polycysts renal disease(PKD).Renal cysts can be detected and segmented by ultrasound images. In this paper, an automated approach is discussed for detection and segmentation of renal cyst. Blob detection is applied for detecting cysts and watershed segmentation with k-mean cluster is applied for segmenting cysts. The approach is implemented in Python and get successful results.
